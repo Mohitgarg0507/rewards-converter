@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class RewardValueTests {
+public class  RewardValueTests {
 
     @Test
     void create_with_cash_value() {
